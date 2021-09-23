@@ -25,5 +25,6 @@ hs_err_pid*
 target/
 
 # Mais put1 pourquoi tu me crées à chaque fois les fichiers Eclipse ???
+.settings/
 .classpath
 .project
